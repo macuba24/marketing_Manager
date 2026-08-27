@@ -1,8 +1,12 @@
 # LinkedIn Posts — Ablage & Clipboard-Helfer
 
+## Plan
+
+Aktuell: [`PLAN-8-WOCHEN.md`](PLAN-8-WOCHEN.md) — 16 Posts · Di 08:30 · Do 14:00 · 01.09.–22.10.2026
+
 ## Posts
 
-Fertige Texte: `YYYY-MM-DD_post-0X.md` (Abschnitt **Fertig zum Posten**).
+Fertige Texte: `YYYY-MM-DD_post-XX.md` (Abschnitt **Fertig zum Posten**).
 
 ## Nächsten Post in die Zwischenablage
 
@@ -11,22 +15,10 @@ cd "D:\Marketing Manager"
 python copy_post.py
 ```
 
-Dann auf LinkedIn einfügen (Strg+V).
-
-Als erledigt markieren:
+Dann LinkedIn: Strg+V. Danach:
 
 ```powershell
 python copy_post.py --done
 ```
 
-Queue anzeigen:
-
-```powershell
-python copy_post.py --list
-```
-
-Bestimmte Datei:
-
-```powershell
-python copy_post.py --file 2026-09-01_post-01.md
-```
+`--list` · `--file 2026-09-01_post-01.md` · `--dry-run`
