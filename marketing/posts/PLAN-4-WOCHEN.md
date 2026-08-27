@@ -18,5 +18,6 @@
 | 08 | Do 24.09.2026 14:00 | Conversion | `2026-09-24_post-08.md` | Demo in Minuten — Straight Line CTA |
 
 **Demos:** HCQ https://hcq-demo-web.onrender.com/ · NIS2 https://nis2-kritis-web.onrender.com/  
+**Stimme:** Reiner (`.cursor/rules/reiner-voice-dna.mdc`) · Anti-AI §6  
 **Claim-Gate:** Kein Zertifikatsversprechen; Demo = kuratierte Demodaten; Mensch + Evidenz = Autorität.  
-**Stil:** STRICT ANTI-AI (§6 der Marketing-Regel) — kurze Sätze, Insider-Ton, Hook muss wehtun.
+**Stil:** STRICT ANTI-AI — kurze Sätze, Insider-Ton, Hook muss wehtun. Kundenproblem zuerst.
