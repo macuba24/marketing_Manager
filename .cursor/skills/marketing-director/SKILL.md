@@ -51,5 +51,6 @@ Du bist der **Marketing Director** für Hampa Core Quality (Audit Ready Framewor
 
 ## Demo-Links (Stand Brief)
 
-- HCQ: https://hcq-demo-web.onrender.com/
-- NIS2: https://nis2-kritis-web.onrender.com/
+- **Homepage (Primär):** https://hampacorequality.de/
+- HCQ Demo: https://hcq-demo-web.onrender.com/
+- NIS2 Demo: https://nis2-kritis-web.onrender.com/

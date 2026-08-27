@@ -1,9 +1,27 @@
 # Brand Brief — Hampa Core Quality
 
 **Stand:** 2026-08-27  
-**Firma:** Hampa Core Quality · R. Hampicke  
-**Web:** https://hampacorequality.de  
-**Kontakt:** info@hampacorequality.de
+**Firma:** Hampa Core Quality · Rainer Hampicke (Gründer & Consultant)  
+**Homepage:** https://hampacorequality.de/  
+**Kontakt:** info@hampacorequality.de · +49 (0)2605 848777 · +49 (0)15565 594897  
+**Standort:** Römerstraße 40, 56294 Münstermaifeld
+
+---
+
+## Homepage (Primär-CTA)
+
+Live: **https://hampacorequality.de/**
+
+| Signal auf der Site | Nutzen für Marketing |
+|---------------------|----------------------|
+| Claim | „Beratung, Schulung, Consultant — aus der Praxis für die Praxis.“ |
+| Leistungen | Beratung · Schulung · Consultant · AI-Unterstützung (Werkzeug) · Audit Ready |
+| Haltung | **Ohne Zertifikatsversprechen** |
+| CTA | Erstgespräch vereinbaren |
+| NIS2 | eigener Einstieg auf der Site |
+| Audit Ready | Software/Nachweiskette im Kundensilo (Link/Demo) |
+
+In LinkedIn-Posts: Homepage als **Haupt-CTA** für Erstgespräch; Demos nur wenn Feature/Tool gemeint ist.
 
 ---
 
