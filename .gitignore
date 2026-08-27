@@ -4,3 +4,6 @@ node_modules/
 .env
 .env.*
 !.env.example
+marketing/posts/.last_copied
+__pycache__/
+*.pyc
