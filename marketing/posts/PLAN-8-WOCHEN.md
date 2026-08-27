@@ -26,4 +26,5 @@
 | 15 | Di 20.10. 08:30 | `2026-10-20_post-15.md` | Pfusch am Nachweis |
 | 16 | Do 22.10. 14:00 | `2026-10-22_post-16.md` | Conversion / Erstgespräch |
 
-**Clipboard:** `python copy_post.py` → `--done` nach Publish.
+**Clipboard:** `python copy_post.py` → `--done` nach Publish.  
+**Messung:** [`../METRIKEN.md`](../METRIKEN.md) · UTM: [`../UTM-POSTS.md`](../UTM-POSTS.md) · Scoreboard: [`../scoreboard/`](../scoreboard/)

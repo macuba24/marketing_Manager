@@ -22,3 +22,9 @@ python copy_post.py --done
 ```
 
 `--list` · `--file 2026-09-01_post-01.md` · `--dry-run`
+
+## Messung
+
+- [`../METRIKEN.md`](../METRIKEN.md) — KPI + Wochen-Scoreboard  
+- [`../UTM-POSTS.md`](../UTM-POSTS.md) — UTM je Post  
+- [`../scoreboard/`](../scoreboard/) — Monatsbögen  
